@@ -5,3 +5,5 @@ class Person {
     this.destinationFloor = destinationFloor;
   }
 };
+
+module.exports = Person;
